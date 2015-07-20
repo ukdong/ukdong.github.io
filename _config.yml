@@ -6,7 +6,7 @@
 name: ukdong
 
 # Short bio or description (displayed in the header)
-description: it guy
+description: IT guy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -18,7 +18,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:ukdong@gmail.com
+  email: ukdong@gmail.com
   facebook:facebook.com/ukdong
   flickr:
   github: ukdong.github.io
